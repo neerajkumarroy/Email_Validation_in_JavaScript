@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+      .m6{
+        background: #50ade2;
+      }
+
+      .m2{
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .m3{
+        color: blue;
+      }
+      .m4{
+        background-color: aquamarine;
+        border: 1px solid black;
+      }
+      .m5{
+        background-color: rgb(194, 17, 147);
+        border: 1px solid black;
+           
+      }
